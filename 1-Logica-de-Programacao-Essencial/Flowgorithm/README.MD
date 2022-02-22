@@ -1,0 +1,2 @@
+# Logica-de-Programacao-Essencial
+Repositório criado para armazenar os códigos desenvolvidos no Flowgorithm durante os estudos sobre fluxo e fluxogramas da atividade "Lógica de Programação Essencial", do bootcamp Take Blip Web Developer, assim como os desafios propostos pelo instrutor.

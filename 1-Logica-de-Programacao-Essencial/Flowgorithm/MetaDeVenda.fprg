@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="cristiano.souza"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-01-21 08:10:05 "/>
+        <attribute name="created" value="Y3Jpc3RpYW5vLnNvdXphO05UQi1TSVNURU1BUzA0OzIwMjItMDEtMjE7IjA3OjU5OjU1ICI7Mzc2Ng=="/>
+        <attribute name="edited" value="Y3Jpc3RpYW5vLnNvdXphO05UQi1TSVNURU1BUzA0OzIwMjItMDEtMjE7IjA4OjEwOjA1ICI7MjszODU4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="janeiro, fevereiro, marco, abril, meta, media" type="Real" array="False" size=""/>
+            <assign variable="meta" expression="5000"/>
+            <input variable="janeiro"/>
+            <input variable="fevereiro"/>
+            <input variable="marco"/>
+            <input variable="abril"/>
+            <assign variable="media" expression="janeiro+fevereiro+marco+abril"/>
+            <if expression="media&gt;=meta">
+                <then>
+                    <output expression="&quot;Bateu a meta! B&#244;nus de 10%&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Abaixo da meta! B&#244;nus de 3%&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

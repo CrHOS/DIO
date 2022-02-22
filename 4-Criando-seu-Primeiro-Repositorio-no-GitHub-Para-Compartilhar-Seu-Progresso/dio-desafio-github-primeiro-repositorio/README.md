@@ -1,0 +1,2 @@
+# Desafio de Projeto sobre Git/GitHub da [DIO](https://www.dio.me/)
+Repositório criado para atender o Desafio de Projeto proposto na atividade "Criando-seu-Primeiro-Repositorio-no-GitHub-Para-Compartilhar-Seu-Progresso", do bootcamp Take Blip Web Developer.

@@ -1,0 +1,2 @@
+# Aprenda-o-que-sao-Estrutura-de-Dados-e-Algoritmos
+Repositório criado para armazenar as anotações da atividade "Aprenda o que são Estrutura de Dados e Algoritmos", do bootcamp Take Blip Web Developer.

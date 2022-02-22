@@ -1,0 +1,2 @@
+# Logica-de-Programacao-Essencial
+Repositório criado para armazenar os códigos desenvolvidos no Portugol Studio durante os estudos de pseudocódigos da atividade "Lógica de Programação Essencial", do bootcamp Take Blip Web Developer, assim como os desafios propostos pelo instrutor.

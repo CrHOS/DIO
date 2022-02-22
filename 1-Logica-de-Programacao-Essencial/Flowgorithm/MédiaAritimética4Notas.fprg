@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="cristiano.souza"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-01-12 10:59:20 "/>
+        <attribute name="created" value="Y3Jpc3RpYW5vLnNvdXphO05UQi1TSVNURU1BUzA0OzIwMjItMDEtMTI7IjEwOjQ1OjEyICI7Mzc0OA=="/>
+        <attribute name="edited" value="Y3Jpc3RpYW5vLnNvdXphO05UQi1TSVNURU1BUzA0OzIwMjItMDEtMTI7IjEwOjU5OjIwICI7MjszODYx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nota1, nota2, nota3, nota4, media, somatorio" type="Real" array="False" size=""/>
+            <input variable="nota1"/>
+            <input variable="nota2"/>
+            <input variable="nota3"/>
+            <input variable="nota4"/>
+            <assign variable="media" expression="(nota1+nota2+nota3+nota4)/4"/>
+            <output expression="&quot;A m&#233;dia &#233;:&quot;" newline="True"/>
+            <output expression="media" newline="True"/>
+            <assign variable="somatorio" expression="nota1+nota2+nota3+nota4"/>
+            <output expression="&quot;O somat&#243;rio das notas &#233;:&quot;" newline="True"/>
+            <output expression="somatorio" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

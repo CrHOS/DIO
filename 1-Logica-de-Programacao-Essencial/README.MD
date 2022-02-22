@@ -1,0 +1,2 @@
+# Logica-de-Programacao-Essencial
+Repositório criado para armazenar os códigos ministrados e melhorados da atividade "Lógica de Programação Essencial", do bootcamp Take Blip Web Developer, assim como os desafios realizados.

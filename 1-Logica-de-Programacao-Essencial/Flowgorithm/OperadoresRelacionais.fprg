@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="cristiano.souza"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-01-21 07:28:17 "/>
+        <attribute name="created" value="Y3Jpc3RpYW5vLnNvdXphO05UQi1TSVNURU1BUzA0OzIwMjItMDEtMjE7IjA3OjI1OjM3ICI7Mzc1OQ=="/>
+        <attribute name="edited" value="Y3Jpc3RpYW5vLnNvdXphO05UQi1TSVNURU1BUzA0OzIwMjItMDEtMjE7IjA3OjI4OjE3ICI7MTszODY4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, b, c" type="Integer" array="False" size=""/>
+            <assign variable="a" expression="1"/>
+            <assign variable="b" expression="1"/>
+            <assign variable="c" expression="3"/>
+            <output expression="a&gt;b" newline="True"/>
+            <output expression="a&lt;b" newline="True"/>
+            <output expression="a==b" newline="True"/>
+            <output expression="a&lt;=b" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
