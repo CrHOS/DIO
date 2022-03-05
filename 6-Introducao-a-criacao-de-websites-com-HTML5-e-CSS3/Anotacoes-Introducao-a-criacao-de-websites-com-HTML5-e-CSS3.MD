@@ -1,0 +1,3 @@
+# Estilizando elementos
+	- Indicação para estudo do CSS: MDN https://developer.mozilla.org/pt-BR/
+	- O navegador adiciona margem automaticamente a alguns elementos. Ex.: h1 a h6, parágrafos...
